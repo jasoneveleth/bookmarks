@@ -1,0 +1,398 @@
+
+<!DOCTYPEhtml>
+<html>
+<head>
+<title>Bookmarks</title>
+<style>
+html {
+font-size: 62.5%;
+}
+body {
+width: 680px;
+margin: 50px auto;
+font-family: Helvetica, sans-serif;
+background-color: #282C34;
+color: #FFFFFF;
+}
+h1 {
+cursor: pointer;
+margin: 0;
+font-size: 2.2rem;
+color: inherit;
+}
+h1:hover {
+margin: -1px;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+a {
+color: inherit;
+text-decoration: none;
+font-family: Helvetica, sans-serif;
+font-size: 2.2rem;
+}
+a:hover {
+margin: -1px;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+ul {
+color: inherit;
+}
+li {
+margin: 0.66rem 0;
+list-style-type: none;
+color: inherit;
+}
+iframe{
+transform:translate(-101%, -50%);
+display:none;
+position:absolute;
+border:2px solid #E5C07B;
+width:320px;
+height:180px;
+}
+.button {
+    margin: auto;
+    background-color: rgba(40, 44, 52, 0.4);
+    border-style: solid;
+    border-color: #fff;
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-weight: bold;
+    font-size: 1.2rem;
+    width: fit-content;
+    text-transform: uppercase;
+    padding: 0.8rem;
+    display: block;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #fff;
+    color: #282C34;
+}
+</style>
+</head>
+<body>
+<div class="button" onClick="togglePreview()">Toggle Preview On</div>
+<ul>
+<li><h1 onClick="toggle(this)">&#9654 Brown Resources</h1><ul style='display:none'>
+<li><a href="https://canvas.brown.edu/courses/1077369/pages/a-short-list-of-advising-resources" onmouseover="preview(this)" onmouseout="reset(this)">Advising Resources: 1st Year @ Brown</a></li>
+<li><a href="https://ask.brown.edu/home/" onmouseover="preview(this)" onmouseout="reset(this)">ASK: Home</a></li>
+<li><a href="https://ithelp.brown.edu/kb/courses-brown" onmouseover="preview(this)" onmouseout="reset(this)">IT Service Center</a></li>
+<li><a href="https://www.brown.edu/academics/college/degree/sites/brown.edu.academics.college.degree/files/uploads/Academic-Code.pdf" onmouseover="preview(this)" onmouseout="reset(this)">Academic Code of Conduct</a></li>
+<li><a href="https://www.brown.edu/about/administration/copyright/" onmouseover="preview(this)" onmouseout="reset(this)">Copyright and Fair Use at Brown</a></li>
+<li><a href="https://today.brown.edu/announcements/120039?utm_source=todayAtBrown&utm_medium=email&utm_campaign=1st%20Year%20Students" onmouseover="preview(this)" onmouseout="reset(this)">Elementary Mentoring</a></li>
+<li><a href="https://today.brown.edu/announcements/119808?utm_source=todayAtBrown&utm_medium=email&utm_campaign=1st%20Year%20Students" onmouseover="preview(this)" onmouseout="reset(this)">Free Software</a></li>
+<li><a href="https://www.brown.edu/about/administration/registrar/academic-calendar" onmouseover="preview(this)" onmouseout="reset(this)">Academic Calendar</a></li>
+<li><a href="https://www.brown.edu/Facilities/Facilities_Management/dorms/" onmouseover="preview(this)" onmouseout="reset(this)">Floor plans</a></li>
+<li><a href="https://compliance.fifoundry.net/en/brownuniversity/student/assignments/606115/content?progress=e4a8dfd0-b3d4-4358-b4e7-b40706abcfe9" onmouseover="preview(this)" onmouseout="reset(this)">AlcoholEdu and Sexual Assault Prevention</a></li>
+<li><a href="https://brown.co1.qualtrics.com/CP/File.php?F=F_6heIsEfp40J7nCJ" onmouseover="preview(this)" onmouseout="reset(this)">Housing Contract</a></li>
+<li><a href="https://brownrunningclub.com/schedule/" onmouseover="preview(this)" onmouseout="reset(this)">Running Club Schedule</a></li>
+<li><a href="https://ithelp.brown.edu/kb/articles/get-started-with-zoom-web-conferencing" onmouseover="preview(this)" onmouseout="reset(this)">Zoom Web Conferencing</a></li>
+<li><a href="https://www.brown.edu/about/administration/brown-card/general-information/bear-bucks-account" onmouseover="preview(this)" onmouseout="reset(this)">Bear Bucks Account</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1tsv3b7GImQs1IdMK6jR9THwWLtIdzoYU8C458dodpx4/edit#gid=0" onmouseover="preview(this)" onmouseout="reset(this)">Resources</a></li>
+<li><a href="https://wd5.myworkday.com/brown/d/inst/779$10624643/rel-task/2997$4086.htmld" onmouseover="preview(this)" onmouseout="reset(this)">WorkDay</a></li>
+<li><a href="https://www.brown.edu/about/administration/registrar/sites/brown.edu.about.administration.registrar/files/uploads/meeting%20time%20grid%20eff%20fall2014_0.pdf" onmouseover="preview(this)" onmouseout="reset(this)">Hour Schedule</a></li>
+<li><a href="https://www.brownbeardens.com/" onmouseover="preview(this)" onmouseout="reset(this)">Brown Bear Dens (housing)</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Photography</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=Gv6qeruccw0" onmouseover="preview(this)" onmouseout="reset(this)">ANIMATE emojis using iMovie</a></li>
+<li><a href="https://www.youtube.com/watch?v=x14ukuV9lHo" onmouseover="preview(this)" onmouseout="reset(this)">Brandon Woelfel Style</a></li>
+<li><h1 onClick="toggle(this)">&#9654 Gimp</h1><ul style='display:none'>
+<li><a href="https://m.youtube.com/watch?v=SoP5LOFxPeY" onmouseover="preview(this)" onmouseout="reset(this)">Gimp - Basics</a></li>
+<li><a href="https://www.youtube.com/watch?v=0HcfCpS_ozU" onmouseover="preview(this)" onmouseout="reset(this)">Gimp - Portrait editing - Skin</a></li>
+<li><a href="https://www.youtube.com/watch?v=3fg9fk3PZnc" onmouseover="preview(this)" onmouseout="reset(this)">How to turn any greyscale picture into an SVG using GiMP</a></li>
+<li><a href="https://www.youtube.com/watch?v=apomEDEm_fg" onmouseover="preview(this)" onmouseout="reset(this)">Turn Any Photo Into a Vector Logo in GIMP 2.10 (2019)</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 After Effects</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=QHDhSidFhcQ" onmouseover="preview(this)" onmouseout="reset(this)">Ae - Title</a></li>
+<li><a href="https://www.youtube.com/watch?v=pbJWqVDpz7w" onmouseover="preview(this)" onmouseout="reset(this)">Ae - Hand Tracking (Single Point)</a></li>
+<li><a href="https://www.youtube.com/watch?v=m5_QznjzAlk" onmouseover="preview(this)" onmouseout="reset(this)">Ae - Title + Masking (3D Track)</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Premiere Pro</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=KnWhWVarfqM" onmouseover="preview(this)" onmouseout="reset(this)">Pr - 10 tips (a lot of hot keys)</a></li>
+<li><a href="https://www.youtube.com/watch?v=pjD93tDB9_4" onmouseover="preview(this)" onmouseout="reset(this)">Pr - More tips</a></li>
+<li><a href="https://www.youtube.com/watch?v=cMMmWVMic1Y" onmouseover="preview(this)" onmouseout="reset(this)">Pr - Edit to the beat</a></li>
+<li><a href="https://www.youtube.com/watch?v=A0zy6VnjGPw" onmouseover="preview(this)" onmouseout="reset(this)">Pr - Glitch Effect</a></li>
+<li><a href="https://www.youtube.com/watch?v=B3AqxXYBm28" onmouseover="preview(this)" onmouseout="reset(this)">Pr + Ps - Cloning</a></li>
+<li><a href="https://www.youtube.com/watch?v=UGtSx5kYuOk" onmouseover="preview(this)" onmouseout="reset(this)">Pr - Timelapse</a></li>
+<li><a href="https://www.youtube.com/watch?v=GYud_W7Ou9E&t=802s" onmouseover="preview(this)" onmouseout="reset(this)">Pr - Color Correcting</a></li>
+<li><a href="https://www.youtube.com/watch?v=qpph9lvoEVU" onmouseover="preview(this)" onmouseout="reset(this)">Pr - Speed ramping</a></li>
+<li><a href="https://www.youtube.com/watch?v=CMnYE8E4sE8" onmouseover="preview(this)" onmouseout="reset(this)">Pr - Loop sound track</a></li>
+<li><a href="https://www.youtube.com/watch?v=N_kDuPyYXRo" onmouseover="preview(this)" onmouseout="reset(this)">Pr - Corner pining</a></li>
+<li><a href="https://www.youtube.com/watch?v=e-4H9ZCzpWo" onmouseover="preview(this)" onmouseout="reset(this)">Pr - Color Space Info</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Lightroom</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=Fo_7-g_Hdvc&t=2s" onmouseover="preview(this)" onmouseout="reset(this)">Lr + Ps - "Salvage" Edits</a></li>
+<li><a href="https://www.youtube.com/watch?v=yQBGDRAYRJs" onmouseover="preview(this)" onmouseout="reset(this)">Lr - 10 tips</a></li>
+<li><a href="https://www.youtube.com/watch?v=-X7_SmT1yi4" onmouseover="preview(this)" onmouseout="reset(this)">Lr - More tips</a></li>
+<li><a href="https://www.youtube.com/watch?v=gpzjvW6nJu8" onmouseover="preview(this)" onmouseout="reset(this)">Lr - RAW Edits 01</a></li>
+<li><a href="https://www.youtube.com/watch?v=kivdIu9nKvc" onmouseover="preview(this)" onmouseout="reset(this)">Lr - RAW Edits 02</a></li>
+<li><a href="https://www.youtube.com/watch?v=wnLcCEavyiY&t=1073s" onmouseover="preview(this)" onmouseout="reset(this)">Lr - RAW Edits 03</a></li>
+<li><a href="https://www.youtube.com/watch?v=K1sk5eok2Ds" onmouseover="preview(this)" onmouseout="reset(this)">Ps + LR - Glowly photos</a></li>
+<li><a href="https://www.youtube.com/watch?v=bvGL1acuN44" onmouseover="preview(this)" onmouseout="reset(this)">LIGHTROOM SECRETS You didn't know about!! - YouTube</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Photoshop</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=0JDjLlgmCSw" onmouseover="preview(this)" onmouseout="reset(this)">Ps - Masking and composites</a></li>
+<li><a href="https://www.youtube.com/watch?v=WGMDXOr4LmI" onmouseover="preview(this)" onmouseout="reset(this)">Ps - More tips</a></li>
+<li><a href="https://www.youtube.com/watch?v=B3AqxXYBm28" onmouseover="preview(this)" onmouseout="reset(this)">Ps + Pr - Cloning</a></li>
+<li><a href="https://www.youtube.com/watch?v=K1sk5eok2Ds" onmouseover="preview(this)" onmouseout="reset(this)">Ps + LR - Glowly photos</a></li>
+<li><a href="https://www.youtube.com/watch?v=eNnqPKxHnjs" onmouseover="preview(this)" onmouseout="reset(this)">Match Light &amp; Color for Composites Photoshop | Day 28 - YouTube</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Shooting</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=bpDRftkteFE" onmouseover="preview(this)" onmouseout="reset(this)">Composition/ Perspectives</a></li>
+<li><a href="https://www.youtube.com/watch?v=Cb5bjlnDkCs" onmouseover="preview(this)" onmouseout="reset(this)">Composition and tips</a></li>
+<li><a href="https://www.youtube.com/watch?v=6H31k2o3TBI" onmouseover="preview(this)" onmouseout="reset(this)">Composition/ Storytelling</a></li>
+<li><a href="https://www.youtube.com/watch?v=fA7HlKCsFk8" onmouseover="preview(this)" onmouseout="reset(this)">Shooting Video on iPhone</a></li>
+<li><a href="https://www.youtube.com/watch?v=MyE1c109DR8" onmouseover="preview(this)" onmouseout="reset(this)">Wedding Videography</a></li>
+<li><a href="https://www.youtube.com/watch?v=eZ5hpcn6tIM" onmouseover="preview(this)" onmouseout="reset(this)">Lighting</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 General Knowledge</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=HlV7F6KIQBI&t=267s" onmouseover="preview(this)" onmouseout="reset(this)">How to Make Money</a></li>
+<li><a href="https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-crop-factor" onmouseover="preview(this)" onmouseout="reset(this)">Crop Factor</a></li>
+<li><a href="https://photographylife.com/nikon-lens-nomenclature" onmouseover="preview(this)" onmouseout="reset(this)">Nikon Lens Abbreviations</a></li>
+<li><a href="https://www.nikonusa.com/en/learn-and-explore/a/tips-and-techniques/how-to-read-your-nikkor-lens-barrel.html" onmouseover="preview(this)" onmouseout="reset(this)">Nikon Lens Abbreviations</a></li>
+<li><a href="https://onlinemanual.nikonimglib.com/d3500/en/10_psam_modes_01.html#mode_p" onmouseover="preview(this)" onmouseout="reset(this)">Camera Modes</a></li>
+<li><a href="https://www.photopills.com/calculators/dof" onmouseover="preview(this)" onmouseout="reset(this)">Depth of Field calculator</a></li>
+<li><a href="https://www.photopills.com/articles/ultimate-guide-depth-field" onmouseover="preview(this)" onmouseout="reset(this)">Depth of Field</a></li>
+<li><a href="https://dustinweb.azureedge.net/media/411297/d3500-af-p-dx-18-55-f35-56g-vr-af-p-70-300mm-f45-63-vr.pdf" onmouseover="preview(this)" onmouseout="reset(this)">Nikon D3500 Manual</a></li>
+<li><a href="https://www.cambridgeincolour.com/tutorials/digital-camera-sensor-size.htm" onmouseover="preview(this)" onmouseout="reset(this)">Digital Camera Sensor Sizes: How it Influences Your Photography</a></li>
+</li></ul>
+<li><a href="https://www.youtube.com/watch?v=McrynNFan1k" onmouseover="preview(this)" onmouseout="reset(this)">iMovie Tricks Nobody Knows!!! (Editing hacks)</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Tools</h1><ul style='display:none'>
+<li><a href="https://www.routerpasswords.com/" onmouseover="preview(this)" onmouseout="reset(this)">Router Passwords Community Database - The Wireless Router Experts</a></li>
+<li><a href="https://lewiscomputerhowto.blogspot.com/2014/06/how-to-hack-wpawpa2-wi-fi-with-kali.html" onmouseover="preview(this)" onmouseout="reset(this)">Kali Linux WPA/WPA2 Aircrack-ng</a></li>
+<li><a href="https://www.cdta.org/trip-planners/1276" onmouseover="preview(this)" onmouseout="reset(this)">CDTA Trip Planners</a></li>
+<li><a href="https://repl.it/languages/python3" onmouseover="preview(this)" onmouseout="reset(this)">Repl.it - Python</a></li>
+<li><a href="https://coggle.it/" onmouseover="preview(this)" onmouseout="reset(this)">Charts - Coggle</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Funny</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=-cOLF9k6FAw&list=WL&index=6&t=113s" onmouseover="preview(this)" onmouseout="reset(this)">President Obama and Jerry Seinfeld</a></li>
+<li><a href="https://www.youtube.com/watch?v=QGj15uvuPLA&list=WL&index=7&t=0s" onmouseover="preview(this)" onmouseout="reset(this)">Getting a laugh: How to make something funny</a></li>
+<li><a href="https://www.youtube.com/watch?v=fXsOqt2aRNw" onmouseover="preview(this)" onmouseout="reset(this)">What's Wrong with This Picture? - SNL</a></li>
+<li><a href="https://www.youtube.com/watch?v=-n5iKpUVqVE&list=PLyk_nLKHU9Qmfsd3sJN_nkYTyBxRCSsWQ" onmouseover="preview(this)" onmouseout="reset(this)">Phil Wang as Will Phang | Unlocking The Power Of Emojis</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Motivation</h1><ul style='display:none'>
+<li><a href="https://collegeinfogeek.com/start/" onmouseover="preview(this)" onmouseout="reset(this)">Start Here! | College Info Geek</a></li>
+<li><a href="https://www.youtube.com/watch?v=fC2z69q3L0o&app=desktop" onmouseover="preview(this)" onmouseout="reset(this)">What Teenagers Want You to Know | Roy Petitfils | TEDxVermilionStreet</a></li>
+<li><a href="https://www.youtube.com/watch?v=wsNzAuYDgy0" onmouseover="preview(this)" onmouseout="reset(this)">Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME</a></li>
+<li><a href="https://www.youtube.com/watch?v=ddek3gQVt9Y" onmouseover="preview(this)" onmouseout="reset(this)">Refusing to Settle: The Quarter-Life Crisis | Adam "Smiley" Poswolsky | TEDxYouth@MileHigh</a></li>
+<li><a href="https://www.youtube.com/watch?v=ec-qGLAnReg" onmouseover="preview(this)" onmouseout="reset(this)">We Try CEO Morning Routines And Night Routines</a></li>
+<li><a href="https://www.youtube.com/watch?v=okM3OYaBQGg" onmouseover="preview(this)" onmouseout="reset(this)">We Trained Like Superheroes For 30 Days</a></li>
+<li><a href="https://www.youtube.com/watch?v=pioFto9aTEQ" onmouseover="preview(this)" onmouseout="reset(this)">We Got A Six-Pack In 6 Weeks</a></li>
+<li><a href="https://www.youtube.com/watch?v=5wXbPghYuRs" onmouseover="preview(this)" onmouseout="reset(this)">Men Get Their Ideal Bodies In 60 Days</a></li>
+<li><a href="https://www.youtube.com/watch?v=YIy6wblBHdc" onmouseover="preview(this)" onmouseout="reset(this)">The Main MUSCLE For Super Human STRENGTH</a></li>
+<li><a href="https://www.youtube.com/watch?v=d-babgLc9JQ" onmouseover="preview(this)" onmouseout="reset(this)">Joe Rogan on People Who Choose to Not Workout, "It's Silly" </a></li>
+<li><a href="https://www.youtube.com/watch?v=JhckVlgYZJE" onmouseover="preview(this)" onmouseout="reset(this)">A old man's advice</a></li>
+<li><a href="https://www.youtube.com/watch?v=PLGNGsJ5L40" onmouseover="preview(this)" onmouseout="reset(this)">Mindsets</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Productivity</h1><ul style='display:none'>
+<li><a href="https://www.asianefficiency.com/habits/eat-that-frog-most-important-tasks/" onmouseover="preview(this)" onmouseout="reset(this)">Eat That Frog by Brian Tracy | Get Most Important Tasks (MIT) Done</a></li>
+<li><a href="https://www.hongkiat.com/blog/to-do-lists-by-hand/" onmouseover="preview(this)" onmouseout="reset(this)">5 Analog To-Do List Systems for Better Productivity - Hongkiat</a></li>
+<li><a href="https://www.asianefficiency.com/schedule-management/7-tips-calendar/" onmouseover="preview(this)" onmouseout="reset(this)">7 Tips for Using Your Calendar More Productively - Asian Efficiency</a></li>
+<li><a href="https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/" onmouseover="preview(this)" onmouseout="reset(this)">The Best Keyboard Shortcuts for Bash (aka the Linux and macOS Terminal)</a></li>
+<li><a href="https://appleinsider.com/articles/18/03/14/how-to-create-keyboard-shortcuts-to-launch-apps-in-macos-using-automator" onmouseover="preview(this)" onmouseout="reset(this)">How to create keyboard shortcuts to launch apps in macOS using Automator</a></li>
+<li><a href="https://www.youtube.com/watch?v=GWRddk0Ybnc" onmouseover="preview(this)" onmouseout="reset(this)">Maximising your Mac Productivity: Alfred</a></li>
+<li><a href="https://ergo-plus.com/office-ergonomics-10-tips-to-help-you-avoid-fatigue/" onmouseover="preview(this)" onmouseout="reset(this)">10 Office Ergonomics Tips to Help You Avoid Fatigue</a></li>
+<li><a href="https://www.youtube.com/watch?v=cWW7Q4eJr8w" onmouseover="preview(this)" onmouseout="reset(this)">Working from Home: How to Plan Your Day</a></li>
+<li><a href="http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html" onmouseover="preview(this)" onmouseout="reset(this)">ssh productivity</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 cs knowledge</h1><ul style='display:none'>
+<li><h1 onClick="toggle(this)">&#9654 vim</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=aHm36-na4-4&feature=youtu.be" onmouseover="preview(this)" onmouseout="reset(this)">Instantly Better Vim | Tarball Guy</a></li>
+<li><a href="https://www.youtube.com/watch?v=gnupOrSEikQ" onmouseover="preview(this)" onmouseout="reset(this)">How to Configure Vim like VSCode</a></li>
+<li><a href="https://www.youtube.com/watch?v=XA2WjJbmmoM" onmouseover="preview(this)" onmouseout="reset(this)">How to Do 90% of What Plugins Do (With Just Vim)</a></li>
+<li><a href="https://www.youtube.com/watch?v=tQCRVkSFFEc" onmouseover="preview(this)" onmouseout="reset(this)">Why Vim Doesn't Need the Mouse</a></li>
+<li><a href="https://vim.rtorr.com/" onmouseover="preview(this)" onmouseout="reset(this)">Vim Cheat Sheet</a></li>
+<li><a href="https://www.thegeekstuff.com/2009/03/8-essential-vim-editor-navigation-fundamentals/" onmouseover="preview(this)" onmouseout="reset(this)">8 Essential Vim Editor Navigation Fundamentals</a></li>
+<li><a href="http://vimcasts.org/episodes/working-with-buffers/" onmouseover="preview(this)" onmouseout="reset(this)">Working with buffers</a></li>
+<li><a href="http://vimcasts.org/episodes/working-with-windows/" onmouseover="preview(this)" onmouseout="reset(this)">Working with windows</a></li>
+<li><a href="https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db" onmouseover="preview(this)" onmouseout="reset(this)">You don't need more than one cursor in vim - Christoph Herman</a></li>
+<li><a href="https://www.youtube.com/watch?v=wlR5gYd6um0" onmouseover="preview(this)" onmouseout="reset(this)">Mastering the Vim Language</a></li>
+<li><a href="https://seesparkbox.com/foundry/demystifying_multi_file_searches_in_vim_and_the_command_line" onmouseover="preview(this)" onmouseout="reset(this)">How to Search in Multiple Files Using Vim</a></li>
+<li><a href="https://hashrocket.com/blog/posts/understanding-the-buffer-list-in-vim-part-1" onmouseover="preview(this)" onmouseout="reset(this)">Understanding the Buffer List in Vim: Part 1 | Hashrocket</a></li>
+<li><a href="https://learnvimscriptthehardway.stevelosh.com/chapters/14.html" onmouseover="preview(this)" onmouseout="reset(this)">Autocommand Groups / Learn Vimscript the Hard Way</a></li>
+<li><a href="http://codyveal.com/posts/vim-killer-features-part-1-text-objects/" onmouseover="preview(this)" onmouseout="reset(this)">Vim Killer Features Part 1: Text Objects | cody jh veal</a></li>
+<li><a href="https://teamgaslight.com/blog/vim-plus-tmux-a-perfect-match" onmouseover="preview(this)" onmouseout="reset(this)">Vim Plus Tmux A Perfect Match | Gaslight</a></li>
+<li><a href="https://vi.stackexchange.com/questions/22429/syntax-highlighting-with-multiple-matches-with-zs" onmouseover="preview(this)" onmouseout="reset(this)">Syntax highlighting with multiple matches with `\zs` - Vi and Vim Stack Exchange</a></li>
+<li><a href="https://www.youtube.com/watch?v=1UXHsCT18wE" onmouseover="preview(this)" onmouseout="reset(this)">Shenanigans</a></li>
+<li><a href="https://medium.com/@arisweedler/tab-settings-in-vim-1ea0863c5990" onmouseover="preview(this)" onmouseout="reset(this)">Tab settings in Vim. Foreword: | by Ari Sweedler | Medium</a></li>
+<li><a href="https://www.youtube.com/watch?v=E-ZbrtoSuzw" onmouseover="preview(this)" onmouseout="reset(this)">Vim: Tutorial on Editing, Navigation, and File Management (2018)</a></li>
+<li><a href="https://vim.fandom.com/wiki/Xterm256_color_names_for_console_Vim" onmouseover="preview(this)" onmouseout="reset(this)">Xterm256 color names for console Vim | Vim Tips Wiki | Fandom</a></li>
+<li><a href="https://gist.github.com/danluu/a4e93468ae48a79440d654a29bf2048b" onmouseover="preview(this)" onmouseout="reset(this)">alacritty mac keybindings</a></li>
+<li><a href="https://www.youtube.com/watch?v=2f8h45YR494&list=WL&index=28&t=0s" onmouseover="preview(this)" onmouseout="reset(this)">Using Vim's Built in Complete Menu for Autocompleting Words</a></li>
+<li><a href="https://flukus.github.io/vim-errorformat-demystified.html" onmouseover="preview(this)" onmouseout="reset(this)">Vim errorformat Demystified</a></li>
+<li><a href="https://sanctum.geek.nz/arabesque/series/unix-as-ide/" onmouseover="preview(this)" onmouseout="reset(this)">Series: Unix as IDE - Arabesque</a></li>
+<li><a href="https://www.youtube.com/watch?v=T8z0E_1wrvI" onmouseover="preview(this)" onmouseout="reset(this)">Vim screencast #25: Live coding</a></li>
+<li><a href="https://blog.bespinian.io/posts/efficient-navigation-in-vim/" onmouseover="preview(this)" onmouseout="reset(this)">Efficient Navigation in Vim | bespinian Blog</a></li>
+<li><a href="https://romainl.github.io/the-patient-vimmer/3.html" onmouseover="preview(this)" onmouseout="reset(this)">The Patient Vimmer - Lord of the files</a></li>
+<li><a href="https://teamgaslight.com/blog/vim-plus-tmux-a-perfect-match" onmouseover="preview(this)" onmouseout="reset(this)">look at links</a></li>
+<li><a href="https://vim.fandom.com/wiki/Power_of_g" onmouseover="preview(this)" onmouseout="reset(this)">the power of g</a></li>
+<li><a href="https://teukka.tech/vimcandothat.html" onmouseover="preview(this)" onmouseout="reset(this)">find + search/grep</a></li>
+<li><a href="https://begriffs.com/posts/2019-07-19-history-use-vim.html" onmouseover="preview(this)" onmouseout="reset(this)">PLEASE READ LATER</a></li>
+<li><a href="https://vimways.org/2018/death-by-a-thousand-files/" onmouseover="preview(this)" onmouseout="reset(this)">using define and include</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 xcode/extension</h1><ul style='display:none'>
+<li><a href="https://developer.apple.com/documentation/safariservices/safari_app_extensions/injecting_a_script_into_a_webpage" onmouseover="preview(this)" onmouseout="reset(this)">Injecting a Script into a Webpage | Apple Developer Documentation</a></li>
+<li><a href="https://appleinsider.com/articles/18/03/14/how-to-create-keyboard-shortcuts-to-launch-apps-in-macos-using-automator" onmouseover="preview(this)" onmouseout="reset(this)">Make the fill text thing into this?</a></li>
+<li><a href="https://www.youtube.com/watch?v=jM__JYM21oU&t=293s" onmouseover="preview(this)" onmouseout="reset(this)">Extension youtube video</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 async/promise</h1><ul style='display:none'>
+<li><a href="https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/" onmouseover="preview(this)" onmouseout="reset(this)">Async JavaScript: From Callbacks, to Promises, to Async/Await</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function" onmouseover="preview(this)" onmouseout="reset(this)">async function - JavaScript | MDN</a></li>
+<li><a href="https://javascript.info/promise-chaining" onmouseover="preview(this)" onmouseout="reset(this)">Promises chaining</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await" onmouseover="preview(this)" onmouseout="reset(this)">Making asynchronous programming easier with async and await - Learn web development | MDN</a></li>
+<li><a href="https://jakearchibald.com/2017/await-vs-return-vs-return-await/" onmouseover="preview(this)" onmouseout="reset(this)">await vs return vs return await - JakeArchibald.com</a></li>
+<li><a href="https://zellwk.com/blog/async-await-in-loops/" onmouseover="preview(this)" onmouseout="reset(this)">JavaScript async and await in loops | Zell Liew</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 web dev</h1><ul style='display:none'>
+<li><a href="https://www.codecademy.com/articles/back-end-architecture" onmouseover="preview(this)" onmouseout="reset(this)">Back-End Web Architecture | Codecademy</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file" onmouseover="preview(this)" onmouseout="reset(this)">file input element - HTML | MDN</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths" onmouseover="preview(this)" onmouseout="reset(this)">Paths - SVG | MDN</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent" onmouseover="preview(this)" onmouseout="reset(this)">encodeURIComponent() - JavaScript | MDN</a></li>
+<li><a href="https://www.thoughtco.com/and-in-javascript-2037515" onmouseover="preview(this)" onmouseout="reset(this)">The Dollar Sign ($) and Underscore in JavaScript</a></li>
+<li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" onmouseover="preview(this)" onmouseout="reset(this)">A Complete Guide to Flexbox | CSS-Tricks</a></li>
+<li><a href="https://chrisdermody.com/mkbhd-logo-animation-step-by-step-tutorial-in-svg-and-css/" onmouseover="preview(this)" onmouseout="reset(this)">css logo animation | Step by step SVG and CSS tutorial</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 functional programming</h1><ul style='display:none'>
+<li><a href="http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/#slide-0" onmouseover="preview(this)" onmouseout="reset(this)">Functional Programming</a></li>
+<li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.55.5156&rep=rep1&type=pdf" onmouseover="preview(this)" onmouseout="reset(this)">Random Access Lists</a></li>
+<li><a href="http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf" onmouseover="preview(this)" onmouseout="reset(this)">Purely Functional Datastructures</a></li>
+<li><a href="https://blog.frankel.ch/imperative-functional-programming/4/" onmouseover="preview(this)" onmouseout="reset(this)">From Imperative to Functional Programming: the Dijkstra algorithm</a></li>
+<li><a href="http://learnyouahaskell.com/types-and-typeclasses" onmouseover="preview(this)" onmouseout="reset(this)">Haskell</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 setting up web stuff</h1><ul style='display:none'>
+<li><a href="https://www.w3schools.com/python/python_mysql_getstarted.asp" onmouseover="preview(this)" onmouseout="reset(this)">Python MySQL</a></li>
+<li><a href="https://smallbusiness.chron.com/attach-sql-database-49760.html" onmouseover="preview(this)" onmouseout="reset(this)">How to Attach an SQL Database to a Web Page | Chron.com</a></li>
+<li><a href="http://recipes.item.ntnu.no/setting-up-an-sql-database-on-the-raspberry-pi/" onmouseover="preview(this)" onmouseout="reset(this)">Setting up an SQL database on the Raspberry Pi – Recipes</a></li>
+<li><a href="https://dev.to/zduey/how-to-set-up-an-ssh-server-on-a-home-computer" onmouseover="preview(this)" onmouseout="reset(this)">How to Set up an SSH Server on a Home Computer - DEV Community</a></li>
+<li><a href="https://levelup.gitconnected.com/how-to-build-a-diy-web-scraper-in-any-language-1104ac0713cd" onmouseover="preview(this)" onmouseout="reset(this)">How to Build a DIY Web Scraper in Any Language - Level Up Coding</a></li>
+<li><a href="https://www.youtube.com/watch?v=gxpX_mubz2A" onmouseover="preview(this)" onmouseout="reset(this)">How to Make Your Own VPN (And Why You Would Want to)</a></li>
+<li><a href="https://www.youtube.com/watch?v=UjDUpdNojaQ" onmouseover="preview(this)" onmouseout="reset(this)">Raspberry Pi: Setup a Web Server Quick and Easy (step-by-step)</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 brown stuff</h1><ul style='display:none'>
+<li><a href="https://drive.google.com/drive/u/3/mobile/folders/1Z-caG6saV72NdLUUMCtm7E79x0pXlk09?usp=sharing" onmouseover="preview(this)" onmouseout="reset(this)">Cs lectures</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh" onmouseover="preview(this)" onmouseout="reset(this)">How To Use SSHFS to Mount Remote File Systems Over SSH</a></li>
+<li><a href="https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/" onmouseover="preview(this)" onmouseout="reset(this)">How to use SSHFS to Mount Remote Directories over SSH</a></li>
+<li><a href="http://cs.brown.edu/courses/cs016/local.html" onmouseover="preview(this)" onmouseout="reset(this)">CS16 - Local Setup</a></li>
+</li></ul>
+<li><a href="https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html" onmouseover="preview(this)" onmouseout="reset(this)">AppleScriptMenu Bar Handler</a></li>
+<li><a href="https://www.youtube.com/watch?v=JFf1ufSSrrM" onmouseover="preview(this)" onmouseout="reset(this)">Getting HTML content into XCode in 5 minutes.(Swift 3)</a></li>
+<li><a href="https://www.youtube.com/watch?v=xvqsFTUsOmc" onmouseover="preview(this)" onmouseout="reset(this)">(webscrping+) Natural Language Processing in Python</a></li>
+<li><a href="https://www.youtube.com/watch?v=rop0W4QDOUI" onmouseover="preview(this)" onmouseout="reset(this)">Maze Solving - Computerphile</a></li>
+<li><a href="https://sighack.com/post/averaging-rgb-colors-the-right-way" onmouseover="preview(this)" onmouseout="reset(this)">Averaging RGB Colors the Right Way - Sighack</a></li>
+<li><a href="https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html" onmouseover="preview(this)" onmouseout="reset(this)">Loading bars for terminal</a></li>
+<li><a href="https://www.markdownguide.org/basic-syntax/" onmouseover="preview(this)" onmouseout="reset(this)">Basic Syntax | Markdown Guide</a></li>
+<li><a href="https://www.markdownguide.org/extended-syntax/" onmouseover="preview(this)" onmouseout="reset(this)">Extended Syntax | Markdown Guide</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Control_character" onmouseover="preview(this)" onmouseout="reset(this)">Control character - Wikipedia</a></li>
+<li><a href="https://www.infoq.com/presentations/Simple-Made-Easy/" onmouseover="preview(this)" onmouseout="reset(this)">Simple Made Easy</a></li>
+<li><a href="https://www.youtube.com/watch?v=l-gF0vDhJVI" onmouseover="preview(this)" onmouseout="reset(this)">Managing Projects - Clean Code - Uncle Bob / Lesson 6</a></li>
+<li><a href="https://medium.com/binaryandmore/beginners-guide-to-deriving-and-implementing-backpropagation-e3c1a5a1e536" onmouseover="preview(this)" onmouseout="reset(this)">BEAUTIFUL BACKPROP explanation</a></li>
+<li><a href="https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c" onmouseover="preview(this)" onmouseout="reset(this)">Animations with Matplotlib. Animations are an interesting way of... | Towards Data Science</a></li>
+<li><a href="https://www.youtube.com/watch?v=LnzuMJLZRdU" onmouseover="preview(this)" onmouseout="reset(this)">“Hello, world” from scratch on a 6502 — Part 1</a></li>
+<li><a href="https://www.wikihow.com/Toggle-WiFi-On-and-Off-with-a-Keyboard-Shortcut-on-Mac" onmouseover="preview(this)" onmouseout="reset(this)">How to Toggle WiFi On and Off with a Keyboard Shortcut on Mac</a></li>
+<li><a href="https://stackoverflow.com/questions/23251569/preview-page-on-link-hover" onmouseover="preview(this)" onmouseout="reset(this)">html - Preview page on link hover | Stack Overflow</a></li>
+<li><a href="https://github.com/NARKOZ/hacker-scripts" onmouseover="preview(this)" onmouseout="reset(this)">NARKOZ/hacker-scripts: Based on a true story</a></li>
+<li><a href="https://automatetheboringstuff.com/" onmouseover="preview(this)" onmouseout="reset(this)">Automate the Boring Stuff with Python</a></li>
+<li><a href="https://medium.com/hackernoon/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5" onmouseover="preview(this)" onmouseout="reset(this)">Harvesting credit card numbers and passwords - Here's how | Medium</a></li>
+<li><a href="https://www.youtube.com/watch?v=ECuqb5Tv9qI" onmouseover="preview(this)" onmouseout="reset(this)">GitHub Profile README</a></li>
+<li><a href="https://www.youtube.com/watch?v=QZJ1drMQz1A" onmouseover="preview(this)" onmouseout="reset(this)">Cron Jobs - How to Schedule Commands with crontab</a></li>
+<li><a href="https://notes.burke.libbey.me/ansi-escape-codes/" onmouseover="preview(this)" onmouseout="reset(this)">ANSI escape codes - Everything you never wanted to know</a></li>
+<li><a href="https://www.youtube.com/watch?v=v3-a-zqKfgA" onmouseover="preview(this)" onmouseout="reset(this)">Binary to decimal can't be that hard, right?</a></li>
+<li><a href="https://www.youtube.com/watch?time_continue=417&v=QkCVrNoqcBU&feature=emb_title" onmouseover="preview(this)" onmouseout="reset(this)">How To Use Color | Color Basics</a></li>
+<li><a href="https://tools.ietf.org/html/rfc1178" onmouseover="preview(this)" onmouseout="reset(this)">Naming a computer</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 websites</h1><ul style='display:none'>
+<li><a href="http://www.fiftycoffees.com/" onmouseover="preview(this)" onmouseout="reset(this)">fifty coffees</a></li>
+<li><a href="https://unpigeon.me/" onmouseover="preview(this)" onmouseout="reset(this)">Discover your new ambition</a></li>
+<li><a href="https://www.yatzer.com/" onmouseover="preview(this)" onmouseout="reset(this)">Yatzer | Design is to Share</a></li>
+<li><a href="http://www.allisonstadd.com/#allison-stadd" onmouseover="preview(this)" onmouseout="reset(this)">Allison Stadd</a></li>
+<li><a href="https://mossiso.com/" onmouseover="preview(this)" onmouseout="reset(this)">Ammon Shepherd - mossiso = more better</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 Running</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=zSIDRHUWlVo" onmouseover="preview(this)" onmouseout="reset(this)">Principles of Natural Running with Dr. Mark Cucuzzella</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 cool</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=ghxQA3vvhsk" onmouseover="preview(this)" onmouseout="reset(this)">Complex Fibonacci Numbers?</a></li>
+<li><a href="https://www.youtube.com/watch?v=5NNO5Kb-PZo&feature=youtu.be&t=184" onmouseover="preview(this)" onmouseout="reset(this)">Dope Tech: The iPad Pro Killer?!</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 worth noting</h1><ul style='display:none'>
+<li><a href="https://www.youtube.com/watch?v=leX541Dr2rU" onmouseover="preview(this)" onmouseout="reset(this)">There is No Algorithm for Truth - with Tom Scott</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZIv4tqJNuxs" onmouseover="preview(this)" onmouseout="reset(this)">Q&amp;A: There is No Algorithm for Truth - with Tom Scott</a></li>
+</li></ul>
+<li><h1 onClick="toggle(this)">&#9654 aunt liz</h1><ul style='display:none'>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25831858/" onmouseover="preview(this)" onmouseout="reset(this)">0.44MPa skeletal muscle</a></li>
+<li><a href="http://www.ircobi.org/wordpress/downloads/irc12/pdf_files/61.pdf" onmouseover="preview(this)" onmouseout="reset(this)">1 shoulder stuff</a></li>
+<li><a href="https://pubs.acs.org/doi/pdf/10.1021/jf60182a012" onmouseover="preview(this)" onmouseout="reset(this)">2 shoulder stuff</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/0021929070900059" onmouseover="preview(this)" onmouseout="reset(this)">3 shoulder stuff</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1058274611005738" onmouseover="preview(this)" onmouseout="reset(this)">4 shoulder stuff</a></li>
+<li><a href="https://www.reddit.com/r/askscience/comments/1s4uz3/what_is_the_tensile_strength_of_human_ligaments/" onmouseover="preview(this)" onmouseout="reset(this)">5 shoulder stuff</a></li>
+<li><a href="https://www.rehab.research.va.gov/jour/00/37/2/wren2.html" onmouseover="preview(this)" onmouseout="reset(this)">6 shoulder stuff</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/17524067/" onmouseover="preview(this)" onmouseout="reset(this)">7 shoulder stuff</a></li>
+<li><a href="https://journals.sagepub.com/doi/pdf/10.5301/jabfm.5000275" onmouseover="preview(this)" onmouseout="reset(this)">8 shoulder stuff</a></li>
+<li><a href="https://www.brown.edu/Departments/Engineering/Courses/122JDD/Lcturs/muscle99.html" onmouseover="preview(this)" onmouseout="reset(this)">9 shoulder stuff</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0838.2000.010006351.x" onmouseover="preview(this)" onmouseout="reset(this)">10 shoulder stuff</a></li>
+<li><a href="https://www.physio-pedia.com/Tendon_Biomechanics" onmouseover="preview(this)" onmouseout="reset(this)">11 shoulder stuff</a></li>
+<li><a href="https://jeb.biologists.org/content/215/20/3552" onmouseover="preview(this)" onmouseout="reset(this)">12 shoulder stuff</a></li>
+<li><a href="https://link.springer.com/chapter/10.1007%2F978-1-4757-2968-9_8" onmouseover="preview(this)" onmouseout="reset(this)">13 shoulder stuff</a></li>
+<li><a href="https://www.tandfonline.com/doi/pdf/10.3109/17453676908989506" onmouseover="preview(this)" onmouseout="reset(this)">14 shoulder stuff</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918939/" onmouseover="preview(this)" onmouseout="reset(this)">rotator cuff cross sections</a></li>
+</li></ul>
+
+</ul>
+<script>
+let t;
+let hoverTime = 500;
+let showPreview = false;
+
+function togglePreview() {
+state = showPreview ? 'on' : 'off'
+showPreview = !showPreview
+document.getElementsByClassName('button')[0].innerText = 'Toggle Preview ' + state
+}
+
+function preview(ele) {
+if (showPreview) {
+t = setTimeout(makeFrame, hoverTime, ele);
+}
+}
+
+function makeFrame(ele) {
+if (ele.href.slice(12,19) === "youtube") {
+return;
+} else if (ele.children.length === 0) {
+frame = document.createElement('iframe');
+frame.src = ele.href;
+ele.appendChild(frame);
+} else {
+frame = ele.children[0]
+}
+frame.style.display = "block";
+}
+
+function reset(ele) {
+if (showPreview) {
+clearTimeout(t);
+if (ele.children.length !== 0) {
+frame = ele.children[0];
+frame.style.display = "none";
+}
+}
+}
+
+function toggle(ele) {
+children = Array.from(ele.parentNode.children).slice(1);
+if (children.length == 0) {
+return;
+}
+attr = (children[0].style.display === "none") ? "block" : "none";
+for (child of children) {
+child.style.display = attr;
+}
+ele.innerText = ((children[0].style.display === "none") ? String.fromCharCode(9654) : String.fromCharCode(9660)) + ele.innerText.slice(1)
+}
+</script>
+</body>
+</html>

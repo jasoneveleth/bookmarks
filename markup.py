@@ -5,13 +5,15 @@ prefix = """
 <html>
 <head>
 <title>Bookmarks</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
 html {
 font-size: 62.5%;
 }
 body {
-width: 680px;
+max-width: 620px;
 margin: 50px auto;
+padding: 20px;
 font-family: Helvetica, sans-serif;
 background-color: #282C34;
 color: #FFFFFF;

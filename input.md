@@ -1,3 +1,7 @@
+Zoom Links
+- [pdes apma 360](https://applications.zoom.us/lti/rich/j/99000589374?oauth_consumer_key=MUhK7TTqR7C_3edbov8HWg&lti_scid=c3276094f6c5f34225b59eb11641d73fbcead9de5a077a91ce644d3f9fb1b9f1)
+
+
 Brown Resources
 [Advising Resources: 1st Year @ Brown](https://canvas.brown.edu/courses/1077369/pages/a-short-list-of-advising-resources)
 [ASK: Home](https://ask.brown.edu/home/)
@@ -17,6 +21,7 @@ Brown Resources
 [WorkDay](https://wd5.myworkday.com/brown/d/inst/779$10624643/rel-task/2997$4086.htmld)
 [Hour Schedule](https://www.brown.edu/about/administration/registrar/sites/brown.edu.about.administration.registrar/files/uploads/meeting%20time%20grid%20eff%20fall2014_0.pdf)
 [Brown Bear Dens (housing)](https://www.brownbeardens.com/)
+[Restricted Items](https://reslife.brown.edu/on-campus/rules/restricted-items)
 
 Photography
 [ANIMATE emojis using iMovie](https://www.youtube.com/watch?v=Gv6qeruccw0)
@@ -226,6 +231,8 @@ brown stuff
 [How To Use Color | Color Basics](https://www.youtube.com/watch?time_continue=417&v=QkCVrNoqcBU&feature=emb_title)
 [Naming a computer](https://tools.ietf.org/html/rfc1178)
 [Sending text using apple script](https://davidwalsh.name/how-to-send-an-imessage-from-command-line)
+[Implementation of basic software](https://www.destroyallsoftware.com/screencasts)
+[wifi login page](https://routerslogin.com/google-wifi-login)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)

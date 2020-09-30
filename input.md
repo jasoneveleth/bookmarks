@@ -1,8 +1,13 @@
-Zoom Links
-- [pdes apma 360](https://applications.zoom.us/lti/rich/j/99000589374?oauth_consumer_key=MUhK7TTqR7C_3edbov8HWg&lti_scid=c3276094f6c5f34225b59eb11641d73fbcead9de5a077a91ce644d3f9fb1b9f1)
+Summer Stuff
+[Math Courses](https://www.math.brown.edu/Images/JHS_Courses.mp4)
+[sums - math poster?](https://sites.google.com/brown.edu/sums)
+[reu - from Prof Chan](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044)
+[reu - mine](https://www.mathprograms.org/db)
+[ICERM](https://icerm.brown.edu/summerug/)
 
 
 Brown Resources
+[MATH UNDERGRAD OVERVIEW](https://www.math.brown.edu/Images/JHS_Courses.mp4)
 [Advising Resources: 1st Year @ Brown](https://canvas.brown.edu/courses/1077369/pages/a-short-list-of-advising-resources)
 [ASK: Home](https://ask.brown.edu/home/)
 [IT Service Center](https://ithelp.brown.edu/kb/courses-brown)
@@ -233,6 +238,8 @@ brown stuff
 [Sending text using apple script](https://davidwalsh.name/how-to-send-an-imessage-from-command-line)
 [Implementation of basic software](https://www.destroyallsoftware.com/screencasts)
 [wifi login page](https://routerslogin.com/google-wifi-login)
+[makefiles videos](https://www.youtube.com/watch?v=_r7i5X0rXJk)
+[makefile article](https://opensource.com/article/18/8/what-how-makefile)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)
@@ -251,23 +258,3 @@ cool
 worth noting
 [There is No Algorithm for Truth - with Tom Scott](https://www.youtube.com/watch?v=leX541Dr2rU)
 [Q&amp;A: There is No Algorithm for Truth - with Tom Scott](https://www.youtube.com/watch?v=ZIv4tqJNuxs)
-
-aunt liz
-[0.44MPa skeletal muscle](https://pubmed.ncbi.nlm.nih.gov/25831858/)
-[1 shoulder stuff](http://www.ircobi.org/wordpress/downloads/irc12/pdf_files/61.pdf)
-[2 shoulder stuff](https://pubs.acs.org/doi/pdf/10.1021/jf60182a012)
-[3 shoulder stuff](https://www.sciencedirect.com/science/article/pii/0021929070900059)
-[4 shoulder stuff](https://www.sciencedirect.com/science/article/pii/S1058274611005738)
-[5 shoulder stuff](https://www.reddit.com/r/askscience/comments/1s4uz3/what_is_the_tensile_strength_of_human_ligaments/)
-[6 shoulder stuff](https://www.rehab.research.va.gov/jour/00/37/2/wren2.html)
-[7 shoulder stuff](https://pubmed.ncbi.nlm.nih.gov/17524067/)
-[8 shoulder stuff](https://journals.sagepub.com/doi/pdf/10.5301/jabfm.5000275)
-[9 shoulder stuff](https://www.brown.edu/Departments/Engineering/Courses/122JDD/Lcturs/muscle99.html)
-[10 shoulder stuff](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0838.2000.010006351.x)
-[11 shoulder stuff](https://www.physio-pedia.com/Tendon_Biomechanics)
-[12 shoulder stuff](https://jeb.biologists.org/content/215/20/3552)
-[13 shoulder stuff](https://link.springer.com/chapter/10.1007%2F978-1-4757-2968-9_8)
-[14 shoulder stuff](https://www.tandfonline.com/doi/pdf/10.3109/17453676908989506)
-[rotator cuff cross sections](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918939/)
-[list of muscles](https://ouhsc.edu/bserdac/dthompso/web/namics/musclist.htm)
-

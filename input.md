@@ -5,7 +5,6 @@ Summer Stuff
 [reu - mine](https://www.mathprograms.org/db)
 [ICERM](https://icerm.brown.edu/summerug/)
 
-
 Brown Resources
 [MATH UNDERGRAD OVERVIEW](https://www.math.brown.edu/Images/JHS_Courses.mp4)
 [Advising Resources: 1st Year @ Brown](https://canvas.brown.edu/courses/1077369/pages/a-short-list-of-advising-resources)

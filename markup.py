@@ -82,6 +82,7 @@ height:180px;
 <ul>
 """
 
+print('move bookmarks.html to index.html after this')
 path = "/Users/jasoneveleth/code/web/bookmarks/"
 m = open(f'{path}input.md', 'r')
 h = open(f'{path}bookmarks.html', 'w')

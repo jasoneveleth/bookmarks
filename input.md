@@ -257,3 +257,6 @@ cool
 worth noting
 [There is No Algorithm for Truth - with Tom Scott](https://www.youtube.com/watch?v=leX541Dr2rU)
 [Q&amp;A: There is No Algorithm for Truth - with Tom Scott](https://www.youtube.com/watch?v=ZIv4tqJNuxs)
+
+archive
+[FAA restrictions](https://www.faa.gov/uas/recreational_fliers/)

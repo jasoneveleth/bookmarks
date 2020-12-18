@@ -239,6 +239,7 @@ brown stuff
 [wifi login page](https://routerslogin.com/google-wifi-login)
 [makefiles videos](https://www.youtube.com/watch?v=_r7i5X0rXJk)
 [makefile article](https://opensource.com/article/18/8/what-how-makefile)
+[guy talks about code](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)

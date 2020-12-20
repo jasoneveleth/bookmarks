@@ -24,6 +24,7 @@ cursor: pointer;
 margin: 0;
 font-size: 2.2rem;
 color: inherit;
+display: inline-block;
 }
 h1:hover {
 margin: -1px;

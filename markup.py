@@ -101,7 +101,7 @@ for line in m.readlines():
         line = '</li></ul>'
     else:
         l.append(0)
-        line = '<li><h1 onClick="toggle(this)">&#9658 ' + line[:-1] + '</h1><ul style=\'display:none\'>'
+        line = '<li><h1 onClick="toggle(this)">&#9654 ' + line[:-1] + '</h1><ul style=\'display:none\'>'
     h.write(line + '\n')
 
 postfix = """
@@ -157,7 +157,7 @@ attr = (children[0].style.display === "none") ? "block" : "none";
 for (child of children) {
 child.style.display = attr;
 }
-ele.innerText = ((children[0].style.display === "none") ? String.fromCharCode(9658) : String.fromCharCode(9660)) + ele.innerText.slice(1)
+ele.innerText = ((children[0].style.display === "none") ? String.fromCharCode(9654) : String.fromCharCode(9660)) + ele.innerText.slice(1)
 }
 </script>
 </body>

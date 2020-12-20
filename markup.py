@@ -17,6 +17,7 @@ padding: 20px;
 font-family: Helvetica, sans-serif;
 background-color: #282C34;
 color: #FFFFFF;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 h1 {
 cursor: pointer;
@@ -31,6 +32,7 @@ border-radius: 5px;
 }
 a {
 color: inherit;
+font-family: inherit;
 text-decoration: none;
 font-family: Helvetica, sans-serif;
 font-size: 2.2rem;
@@ -42,11 +44,13 @@ border-radius: 5px;
 }
 ul {
 color: inherit;
+font-family: inherit;
 }
 li {
 margin: 0.66rem 0;
 list-style-type: none;
 color: inherit;
+font-family: inherit;
 }
 iframe{
 transform:translate(-101%, -50%);
@@ -82,7 +86,6 @@ height:180px;
 <ul>
 """
 
-print('move bookmarks.html to index.html after this')
 path = "/Users/jasoneveleth/code/web/bookmarks/"
 m = open(f'{path}input.md', 'r')
 h = open(f'{path}bookmarks.html', 'w')
@@ -102,6 +105,8 @@ for line in m.readlines():
     h.write(line + '\n')
 
 postfix = """
+</ul>
+</li>
 </ul>
 <script>
 let t;
@@ -160,3 +165,6 @@ ele.innerText = ((children[0].style.display === "none") ? String.fromCharCode(96
 """
 
 h.write(postfix)
+
+print('created bookmarks.html')
+print('move bookmarks.html to index.html if it worked')

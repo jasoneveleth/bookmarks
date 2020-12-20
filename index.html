@@ -15,6 +15,7 @@ padding: 20px;
 font-family: Helvetica, sans-serif;
 background-color: #282C34;
 color: #FFFFFF;
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 h1 {
 cursor: pointer;
@@ -29,6 +30,7 @@ border-radius: 5px;
 }
 a {
 color: inherit;
+font-family: inherit;
 text-decoration: none;
 font-family: Helvetica, sans-serif;
 font-size: 2.2rem;
@@ -40,11 +42,13 @@ border-radius: 5px;
 }
 ul {
 color: inherit;
+font-family: inherit;
 }
 li {
 margin: 0.66rem 0;
 list-style-type: none;
 color: inherit;
+font-family: inherit;
 }
 iframe{
 transform:translate(-101%, -50%);
@@ -86,6 +90,7 @@ height:180px;
 <li><a href="https://icerm.brown.edu/summerug/" onmouseover="preview(this)" onmouseout="reset(this)">ICERM</a></li>
 </li></ul>
 <li><h1 onClick="toggle(this)">&#9658 Brown Resources</h1><ul style='display:none'>
+<li><a href="https://myprint.brown.edu/app?service=page/UserWebPrint" onmouseover="preview(this)" onmouseout="reset(this)">Printing</a></li>
 <li><a href="https://www.math.brown.edu/Images/JHS_Courses.mp4" onmouseover="preview(this)" onmouseout="reset(this)">MATH UNDERGRAD OVERVIEW</a></li>
 <li><a href="https://canvas.brown.edu/courses/1077369/pages/a-short-list-of-advising-resources" onmouseover="preview(this)" onmouseout="reset(this)">Advising Resources: 1st Year @ Brown</a></li>
 <li><a href="https://ask.brown.edu/home/" onmouseover="preview(this)" onmouseout="reset(this)">ASK: Home</a></li>
@@ -342,6 +347,8 @@ height:180px;
 <li><h1 onClick="toggle(this)">&#9658 archive</h1><ul style='display:none'>
 <li><a href="https://www.faa.gov/uas/recreational_fliers/" onmouseover="preview(this)" onmouseout="reset(this)">FAA restrictions</a></li>
 
+</ul>
+</li>
 </ul>
 <script>
 let t;

@@ -241,6 +241,7 @@ brown stuff
 [makefiles videos](https://www.youtube.com/watch?v=_r7i5X0rXJk)
 [makefile article](https://opensource.com/article/18/8/what-how-makefile)
 [guy talks about code](https://www.youtube.com/watch?v=AbgsfeGvg3E)
+[optimizations](https://www.collabora.com/news-and-blog/blog/2017/03/21/performance-analysis-in-linux/)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)

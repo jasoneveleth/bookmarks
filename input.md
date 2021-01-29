@@ -165,6 +165,12 @@ vim
 [find + search/grep](https://teukka.tech/vimcandothat.html)
 [PLEASE READ LATER](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
 [using define and include](https://vimways.org/2018/death-by-a-thousand-files/)
+[what i wish i knew](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7)
+
+julia
+[REPL guide](https://www.youtube.com/watch?v=EkgCENBFrAY)
+[Speeding up code guy](https://www.youtube.com/watch?v=UNkXNZZ3hSw)
+[benchmark](https://www.youtube.com/watch?v=9C7MAAsMMBc)
 
 xcode/extension
 [Injecting a Script into a Webpage | Apple Developer Documentation](https://developer.apple.com/documentation/safariservices/safari_app_extensions/injecting_a_script_into_a_webpage)
@@ -242,6 +248,9 @@ brown stuff
 [makefile article](https://opensource.com/article/18/8/what-how-makefile)
 [guy talks about code](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 [optimizations](https://www.collabora.com/news-and-blog/blog/2017/03/21/performance-analysis-in-linux/)
+[intersection of lines](https://www.geeksforgeeks.org/program-for-point-of-intersection-of-two-lines/)
+[donut code](https://www.youtube.com/watch?app=desktop&v=sW9npZVpiMI)
+[counting/off by one error](https://betterexplained.com/articles/learning-how-to-count-avoiding-the-fencepost-problem/)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)

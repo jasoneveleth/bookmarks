@@ -222,6 +222,10 @@ blogs
 [icyphox](https://icyphox.sh)
 [bluz71](https://bluz71.github.io)
 
+parallel
+[4 solutions to trivial problem](https://www.youtube.com/watch?v=ftcIcn8AmSY)
+[lecture slides](https://courses.cs.washington.edu/courses/cse373/14wi/lecture26.pdf)
+
 [AppleScriptMenu Bar Handler](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html)
 [Getting HTML content into XCode in 5 minutes.(Swift 3)](https://www.youtube.com/watch?v=JFf1ufSSrrM)
 [(webscrping+) Natural Language Processing in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc)
@@ -259,6 +263,7 @@ blogs
 [counting/off by one error](https://betterexplained.com/articles/learning-how-to-count-avoiding-the-fencepost-problem/)
 [graphs/dot previewer](https://nickcanzoneri.com/dot/graphviz/2018/01/31/using-dot.html)
 [zsh functions keybind](http://zsh.sourceforge.net/Doc/Release/Zsh-Line-Editor.html#Standard-Widgets)
+[fzf](https://junegunn.kr/2014/04/fzf+vim+tmux)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)

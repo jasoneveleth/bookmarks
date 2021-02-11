@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import os
 
 prefix = """
 <!DOCTYPEhtml>
@@ -168,4 +169,8 @@ ele.innerText = ((children[0].style.display === "none") ? String.fromCharCode(96
 h.write(postfix)
 
 print('created bookmarks.html')
-print('move bookmarks.html to index.html if it worked')
+if "y" == input("do you want to overwrite index.html (y/N) "):
+    os.remove(f'{path}index.html')
+    os.rename(f'{path}bookmarks.html', f'{path}index.html')
+    print("moved bookmarks.html to index.html")
+

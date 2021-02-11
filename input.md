@@ -166,6 +166,7 @@ vim
 [PLEASE READ LATER](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
 [using define and include](https://vimways.org/2018/death-by-a-thousand-files/)
 [what i wish i knew](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7)
+[built in vim features](https://www.youtube.com/watch?v=Gs1VDYnS-Ac&start=3349s)
 
 julia
 [REPL guide](https://www.youtube.com/watch?v=EkgCENBFrAY)
@@ -216,6 +217,11 @@ brown stuff
 [How to use SSHFS to Mount Remote Directories over SSH](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
 [CS16 - Local Setup](http://cs.brown.edu/courses/cs016/local.html)
 
+blogs
+[jdhao](https://jdhao.github.io)
+[icyphox](https://icyphox.sh)
+[bluz71](https://bluz71.github.io)
+
 [AppleScriptMenu Bar Handler](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html)
 [Getting HTML content into XCode in 5 minutes.(Swift 3)](https://www.youtube.com/watch?v=JFf1ufSSrrM)
 [(webscrping+) Natural Language Processing in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc)
@@ -251,6 +257,8 @@ brown stuff
 [intersection of lines](https://www.geeksforgeeks.org/program-for-point-of-intersection-of-two-lines/)
 [donut code](https://www.youtube.com/watch?app=desktop&v=sW9npZVpiMI)
 [counting/off by one error](https://betterexplained.com/articles/learning-how-to-count-avoiding-the-fencepost-problem/)
+[graphs/dot previewer](https://nickcanzoneri.com/dot/graphviz/2018/01/31/using-dot.html)
+[zsh functions keybind](http://zsh.sourceforge.net/Doc/Release/Zsh-Line-Editor.html#Standard-Widgets)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)

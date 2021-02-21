@@ -105,6 +105,9 @@ Funny
 [Getting a laugh: How to make something funny](https://www.youtube.com/watch?v=QGj15uvuPLA&list=WL&index=7&t=0s)
 [What's Wrong with This Picture? - SNL](https://www.youtube.com/watch?v=fXsOqt2aRNw)
 [Phil Wang as Will Phang | Unlocking The Power Of Emojis](https://www.youtube.com/watch?v=-n5iKpUVqVE&list=PLyk_nLKHU9Qmfsd3sJN_nkYTyBxRCSsWQ)
+[xkcd Laptop issues](https://www.explainxkcd.com/wiki/index.php/2083:_Laptop_Issues)
+[xkcd thermostat](https://www.explainxkcd.com/wiki/index.php/1912:_Thermostat)
+[xkcd bad code series](https://www.explainxkcd.com/wiki/index.php/1513:_Code_Quality)
 
 Motivation
 [Start Here! | College Info Geek](https://collegeinfogeek.com/start/)
@@ -167,6 +170,11 @@ vim
 [using define and include](https://vimways.org/2018/death-by-a-thousand-files/)
 [what i wish i knew](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7)
 [built in vim features](https://www.youtube.com/watch?v=Gs1VDYnS-Ac&start=3349s)
+[basics](https://github.com/iggredible/Learn-Vim/blob/master/ch04_vim_grammar.md)
+[macros](https://github.com/iggredible/Learn-Vim/blob/master/ch09_macros.md)
+[fzf](https://github.com/junegunn/fzf/blob/master/README-VIM.md)
+[mappings](https://www.reddit.com/r/vim/comments/51bdwf/what_heretical_remaps_do_you_use/)
+[wiki mappings 1](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1))
 
 julia
 [REPL guide](https://www.youtube.com/watch?v=EkgCENBFrAY)
@@ -221,6 +229,8 @@ blogs
 [jdhao](https://jdhao.github.io)
 [icyphox](https://icyphox.sh)
 [bluz71](https://bluz71.github.io)
+[deanishe](https://www.deanishe.net)
+[yufanlu](https://yufanlu.net)
 
 parallel
 [4 solutions to trivial problem](https://www.youtube.com/watch?v=ftcIcn8AmSY)
@@ -264,6 +274,7 @@ parallel
 [graphs/dot previewer](https://nickcanzoneri.com/dot/graphviz/2018/01/31/using-dot.html)
 [zsh functions keybind](http://zsh.sourceforge.net/Doc/Release/Zsh-Line-Editor.html#Standard-Widgets)
 [fzf](https://junegunn.kr/2014/04/fzf+vim+tmux)
+[lldb reverse](https://dev.to/vangelists/live-reverse-debugging-in-lldb-2nf0)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)
@@ -274,6 +285,9 @@ websites
 
 Running
 [Principles of Natural Running with Dr. Mark Cucuzzella](https://www.youtube.com/watch?v=zSIDRHUWlVo)
+
+Writing
+[how to write math](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf)
 
 cool
 [Complex Fibonacci Numbers?](https://www.youtube.com/watch?v=ghxQA3vvhsk)

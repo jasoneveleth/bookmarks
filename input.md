@@ -231,6 +231,7 @@ blogs
 [bluz71](https://bluz71.github.io)
 [deanishe](https://www.deanishe.net)
 [yufanlu](https://yufanlu.net)
+[jamesh fisher](https://jameshfisher.com/2017/12/04/how-less-works/)
 
 parallel
 [4 solutions to trivial problem](https://www.youtube.com/watch?v=ftcIcn8AmSY)

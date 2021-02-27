@@ -276,6 +276,8 @@ parallel
 [zsh functions keybind](http://zsh.sourceforge.net/Doc/Release/Zsh-Line-Editor.html#Standard-Widgets)
 [fzf](https://junegunn.kr/2014/04/fzf+vim+tmux)
 [lldb reverse](https://dev.to/vangelists/live-reverse-debugging-in-lldb-2nf0)
+[regex](https://www.rexegg.com/regex-quickstart.html)
+[ARM assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)
@@ -293,6 +295,7 @@ Writing
 cool
 [Complex Fibonacci Numbers?](https://www.youtube.com/watch?v=ghxQA3vvhsk)
 [Dope Tech: The iPad Pro Killer?!](https://www.youtube.com/watch?v=5NNO5Kb-PZo&feature=youtu.be&t=184)
+[Bear/gorilla in basketball passes](https://www.youtube.com/watch?v=Ahg6qcgoay4)
 
 worth noting
 [There is No Algorithm for Truth - with Tom Scott](https://www.youtube.com/watch?v=leX541Dr2rU)

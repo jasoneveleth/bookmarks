@@ -175,6 +175,8 @@ vim
 [fzf](https://github.com/junegunn/fzf/blob/master/README-VIM.md)
 [mappings](https://www.reddit.com/r/vim/comments/51bdwf/what_heretical_remaps_do_you_use/)
 [wiki mappings 1](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1))
+[how to write a complete func](https://vi.stackexchange.com/questions/7750/how-do-i-manage-and-remember-many-abbreviations-in-my-vimrc)
+[symbol based file navigation](https://vimways.org/2018/death-by-a-thousand-files/)
 
 julia
 [REPL guide](https://www.youtube.com/watch?v=EkgCENBFrAY)
@@ -232,10 +234,16 @@ blogs
 [deanishe](https://www.deanishe.net)
 [yufanlu](https://yufanlu.net)
 [jamesh fisher](https://jameshfisher.com/2017/12/04/how-less-works/)
+[mackys](https://mackys.livejournal.com/672962.html)
 
 parallel
 [4 solutions to trivial problem](https://www.youtube.com/watch?v=ftcIcn8AmSY)
 [lecture slides](https://courses.cs.washington.edu/courses/cse373/14wi/lecture26.pdf)
+[TO READ long thesis](http://aleksandar-prokopec.com/resources/docs/my_thesis.pdf)
+[TO READ concurrency freaks blog](http://concurrencyfreaks.blogspot.com/2013/05/lock-free-and-wait-free-definition-and.html)
+
+performance
+[xi editor](https://xi-editor.io/docs/rope_science_01.html)
 
 [AppleScriptMenu Bar Handler](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html)
 [Getting HTML content into XCode in 5 minutes.(Swift 3)](https://www.youtube.com/watch?v=JFf1ufSSrrM)

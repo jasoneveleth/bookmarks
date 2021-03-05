@@ -286,6 +286,9 @@ performance
 [lldb reverse](https://dev.to/vangelists/live-reverse-debugging-in-lldb-2nf0)
 [regex](https://www.rexegg.com/regex-quickstart.html)
 [ARM assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
+[regex finite automata (implementing regex)](https://swtch.com/~rsc/regexp/regexp1.html)
+[Deep learning visualizations](http://neuralnetworksanddeeplearning.com/chap4.html)
+[TO READ perl web server](https://renenyffenegger.ch/notes/development/languages/Perl/misc/webserver)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)

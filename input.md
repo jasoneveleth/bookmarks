@@ -241,6 +241,11 @@ parallel
 [lecture slides](https://courses.cs.washington.edu/courses/cse373/14wi/lecture26.pdf)
 [TO READ long thesis](http://aleksandar-prokopec.com/resources/docs/my_thesis.pdf)
 [TO READ concurrency freaks blog](http://concurrencyfreaks.blogspot.com/2013/05/lock-free-and-wait-free-definition-and.html)
+[TO READ job stealing](https://blog.molecular-matters.com/2015/09/25/job-system-2-0-lock-free-work-stealing-part-3-going-lock-free/)
+[TO READ intro lock free](https://preshing.com/20120612/an-introduction-to-lock-free-programming/)
+[TO READ memory ordering compile time](https://preshing.com/20120625/memory-ordering-at-compile-time/)
+[TO READ memory reordering caught in act](https://preshing.com/20120515/memory-reordering-caught-in-the-act/)
+[TO READ weak vs strong memory](https://preshing.com/20120930/weak-vs-strong-memory-models/)
 
 performance
 [xi editor](https://xi-editor.io/docs/rope_science_01.html)

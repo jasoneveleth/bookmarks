@@ -134,6 +134,10 @@ Productivity
 [Working from Home: How to Plan Your Day](https://www.youtube.com/watch?v=cWW7Q4eJr8w)
 [ssh productivity](http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html)
 
+math
+[TO READ lin alg algorithms](https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
+[entropy or log-loss](https://www.youtube.com/watch?v=ErfnhcEV1O8)
+
 cs knowledge
 vim
 [Instantly Better Vim | Tarball Guy](https://www.youtube.com/watch?v=aHm36-na4-4&feature=youtu.be)

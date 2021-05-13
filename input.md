@@ -239,6 +239,8 @@ blogs
 [yufanlu](https://yufanlu.net)
 [jamesh fisher](https://jameshfisher.com/2017/12/04/how-less-works/)
 [mackys](https://mackys.livejournal.com/672962.html)
+[idk](https://www.neelnanda.io/blog/35-standards)
+[putanumonit](https://putanumonit.com/2020/01/01/welcome/)
 
 parallel
 [4 solutions to trivial problem](https://www.youtube.com/watch?v=ftcIcn8AmSY)
@@ -299,6 +301,8 @@ performance
 [Deep learning visualizations](http://neuralnetworksanddeeplearning.com/chap4.html)
 [theory of algorithms](https://www.cs.cmu.edu/~sutner/CDM/papers/Moschovakis02.pdf)
 [TO READ perl web server](https://renenyffenegger.ch/notes/development/languages/Perl/misc/webserver)
+[how to read a paper](http://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+[how to read a paper 2](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)

@@ -238,7 +238,6 @@ blogs
 [deanishe](https://www.deanishe.net)
 [yufanlu](https://yufanlu.net)
 [jamesh fisher](https://jameshfisher.com/2017/12/04/how-less-works/)
-[mackys](https://mackys.livejournal.com/672962.html)
 [idk](https://www.neelnanda.io/blog/35-standards)
 [putanumonit](https://putanumonit.com/2020/01/01/welcome/)
 
@@ -303,6 +302,8 @@ performance
 [TO READ perl web server](https://renenyffenegger.ch/notes/development/languages/Perl/misc/webserver)
 [how to read a paper](http://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 [how to read a paper 2](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
+[dyld mac](https://stackoverflow.com/questions/17703510/dyld-library-not-loaded-reason-image-not-found)
+[algorithm repository](https://algorist.com/algorist.html)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)
@@ -313,6 +314,7 @@ websites
 
 Running
 [Principles of Natural Running with Dr. Mark Cucuzzella](https://www.youtube.com/watch?v=zSIDRHUWlVo)
+[xc training 2021](https://docs.google.com/spreadsheets/d/1jdvoMb-lgGcJV_cIxFZNhQzHtc4QEd2tnNwxKh8UJxM/edit#gid=1052993096)
 
 Writing
 [how to write math](https://www.math.ucla.edu/~pak/papers/how-to-write1.pdf)

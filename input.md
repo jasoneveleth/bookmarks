@@ -137,6 +137,8 @@ Productivity
 math
 [TO READ lin alg algorithms](https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
 [entropy or log-loss](https://www.youtube.com/watch?v=ErfnhcEV1O8)
+[dlmf](https://dlmf.nist.gov)
+[tau is better than pi](https://tauday.com/tau-manifesto)
 
 cs knowledge
 vim
@@ -181,6 +183,7 @@ vim
 [wiki mappings 1](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1))
 [how to write a complete func](https://vi.stackexchange.com/questions/7750/how-do-i-manage-and-remember-many-abbreviations-in-my-vimrc)
 [symbol based file navigation](https://vimways.org/2018/death-by-a-thousand-files/)
+[tdd example (paid)](https://cleancoders.com/episode/comparativeDesign-episode-1)
 
 julia
 [REPL guide](https://www.youtube.com/watch?v=EkgCENBFrAY)
@@ -240,6 +243,7 @@ blogs
 [jamesh fisher](https://jameshfisher.com/2017/12/04/how-less-works/)
 [idk](https://www.neelnanda.io/blog/35-standards)
 [putanumonit](https://putanumonit.com/2020/01/01/welcome/)
+[scattered-thoughts](https://scattered-thoughts.net)
 
 parallel
 [4 solutions to trivial problem](https://www.youtube.com/watch?v=ftcIcn8AmSY)

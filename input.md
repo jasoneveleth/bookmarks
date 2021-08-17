@@ -139,6 +139,7 @@ math
 [entropy or log-loss](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 [dlmf](https://dlmf.nist.gov)
 [tau is better than pi](https://tauday.com/tau-manifesto)
+[conjugate gradient descent](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 
 cs knowledge
 vim

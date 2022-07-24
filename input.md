@@ -140,6 +140,7 @@ math
 [dlmf](https://dlmf.nist.gov)
 [tau is better than pi](https://tauday.com/tau-manifesto)
 [conjugate gradient descent](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+[expository papers](https://kconrad.math.uconn.edu/blurbs/)
 
 cs knowledge
 vim
@@ -245,6 +246,11 @@ blogs
 [idk](https://www.neelnanda.io/blog/35-standards)
 [putanumonit](https://putanumonit.com/2020/01/01/welcome/)
 [scattered-thoughts](https://scattered-thoughts.net)
+[turing test](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
+[angry guy](https://scottlocklin.wordpress.com/2021/04/01/obvious-and-possible-software-innovations-nobody-does/)
+[automaton](https://blog.burntsushi.net/transducers/)
+[nice text](https://martinheinz.dev/blog/66)
+[its a girl](https://www.rousette.org.uk/archives/)
 
 parallel
 [4 solutions to trivial problem](https://www.youtube.com/watch?v=ftcIcn8AmSY)
@@ -309,6 +315,10 @@ performance
 [how to read a paper 2](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 [dyld mac](https://stackoverflow.com/questions/17703510/dyld-library-not-loaded-reason-image-not-found)
 [algorithm repository](https://algorist.com/algorist.html)
+[papers with code (machine learning)](https://paperswithcode.com)
+[how to sort content without using average ranking](https://towardsdatascience.com/how-not-to-sort-by-popularity-92745397a7ae)
+[Rmarkdown pandoc knitr workflow](https://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
+[org-roam](https://www.rousette.org.uk/archives/extending-org-roam/)
 
 websites
 [fifty coffees](http://www.fiftycoffees.com/)
@@ -316,6 +326,11 @@ websites
 [Yatzer | Design is to Share](https://www.yatzer.com/)
 [Allison Stadd](http://www.allisonstadd.com/#allison-stadd)
 [Ammon Shepherd - mossiso](https://mossiso.com/)
+[pre code text](https://datatracker.ietf.org/doc/html/rfc2119)
+[mono text](https://martinheinz.dev/blog/66)
+[mono text](https://www.rousette.org.uk/archives/)
+[paper website](https://daily.tinyprojects.dev/paper_website)
+[nice annotations on side](https://what.happens.when.computer/2016-03-15/subjects-and-entities/)
 
 Running
 [Principles of Natural Running with Dr. Mark Cucuzzella](https://www.youtube.com/watch?v=zSIDRHUWlVo)

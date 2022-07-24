@@ -88,7 +88,8 @@ height:180px;
 <ul>
 """
 
-path = "/Users/jasoneveleth/code/web/bookmarks/"
+path = "$HOME/src/bookmarks/"
+path = os.path.expandvars(path)
 m = open(f'{path}input.md', 'r')
 h = open(f'{path}bookmarks.html', 'w')
 h.write(prefix)

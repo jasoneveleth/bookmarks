@@ -331,6 +331,7 @@ websites
 [mono text](https://www.rousette.org.uk/archives/)
 [paper website](https://daily.tinyprojects.dev/paper_website)
 [nice annotations on side](https://what.happens.when.computer/2016-03-15/subjects-and-entities/)
+[idk but its nice (and going to a subpage at the bottom brings up a nice menu)](https://practicaltypography.com)
 
 Running
 [Principles of Natural Running with Dr. Mark Cucuzzella](https://www.youtube.com/watch?v=zSIDRHUWlVo)

@@ -332,6 +332,11 @@ websites
 [paper website](https://daily.tinyprojects.dev/paper_website)
 [nice annotations on side](https://what.happens.when.computer/2016-03-15/subjects-and-entities/)
 [idk but its nice (and going to a subpage at the bottom brings up a nice menu)](https://practicaltypography.com)
+[nice mono](https://www.vi-improved.org/loathing/)
+[beautiful webapp](https://fuck-statistics.vercel.app)
+[nice personal website](https://www.iamkneel.tk)
+[nice scroll](https://help.obsidian.md/Plugins/Tag+pane)
+[felt soft (which was nice)](https://rfdonnelly.github.io/posts/using-tree-sitter-parsers-in-rust/)
 
 Running
 [Principles of Natural Running with Dr. Mark Cucuzzella](https://www.youtube.com/watch?v=zSIDRHUWlVo)

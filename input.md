@@ -251,6 +251,7 @@ blogs
 [automaton](https://blog.burntsushi.net/transducers/)
 [nice text](https://martinheinz.dev/blog/66)
 [its a girl](https://www.rousette.org.uk/archives/)
+[nice looking](https://siraben.dev/2022/03/01/tree-sitter.html)
 
 parallel
 [4 solutions to trivial problem](https://www.youtube.com/watch?v=ftcIcn8AmSY)
